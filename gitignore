@@ -1,0 +1,38 @@
+
+---
+
+### .gitignore
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+ENV/
+env.bak/
+env/
+
+# Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+Enunciado
+Projeto: Cálculo da Área de um Círculo
+
+Desenvolva um script em Python que solicite ao usuário o raio de um círculo e calcule a área correspondente. O cálculo deve utilizar a fórmula Área = PI * raio², considerando PI = 3.14159.
+
+Requisitos:
+
+O script deve solicitar o valor do raio ao usuário.
+A constante PI deve ser definida no código como 3.14159.
+A área deve ser exibida com duas casas decimais.
+Critérios de Avaliação:
+
+Correção no cálculo da área.
+Exibição precisa do resultado.
+Estrutura e clareza do código.
